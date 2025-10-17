@@ -1,0 +1,5 @@
+{
+  "name": "R - The Social App",
+  "description": "A web application that mimics the functionality and design of X (formerly Twitter). Users can create accounts, post messages (RTs), upload media, like, repost, and follow other users. All data is persisted in the browser's local storage.",
+  "requestFramePermissions": []
+}
